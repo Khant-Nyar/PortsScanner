@@ -6,5 +6,5 @@ Fork This repository
 root@host:~/$ git clone https://github.com/Khant-Nyar/PortsScanner
 root@host:~/$ cd PortsScanner
 root@host:~/PortsScanner$ chmod +x * 
-root@host:~/PortsScanner$ python app.py
+root@host:~/PortsScanner$ python app.py 192.168.0.1 --ports 1-100
 ```
